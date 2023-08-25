@@ -1,0 +1,13 @@
+.expenses {
+    padding: 0.8rem;
+    background-color: rgb(31, 31, 31);
+    margin: 2rem auto;
+    width: 50rem;
+    /* margin-inline: 3rem; */
+    max-width: 85%;
+  }
+  p{
+    color: blueviolet;
+    font-weight: 600;
+    font-size: 30px;
+  }

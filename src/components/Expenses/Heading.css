@@ -1,0 +1,26 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&family=Jost:wght@100;200;300;400;500;600;700;800;900&family=Montserrat:wght@700&family=Rubik+Wet+Paint&display=swap');
+
+h1{
+  
+    font-weight: 700;
+   text-align: center;
+   font-family: 'Montserrat', sans-serif;
+ 
+}
+.title{
+    color: blueviolet;
+}
+.head{
+    margin-top: 3%;
+}
+.title2{
+    color: black;
+}
+
+@media(max-width:500px){
+    h1{
+        font-size: 1.5rem;
+    }
+}
